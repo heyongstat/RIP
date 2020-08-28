@@ -7,9 +7,7 @@ In this case, PCA-based estimators and their variations are not theoretically un
 loadings and scores, which amounts to assuming a temporal and cross-sectional quantile structure for panel observations instead of the mean pattern in $L_2$ minimization. 
 Without any moment constraint on the idiosyncratic errors, we correctly identify the common and idiosyncratic components for each variable. We obtained the convergence rates 
 of a computationally feasible weighted $L_1$ minimization estimators via iteratively alternating the quantile regression cross-sectionally and serially.
-Bahardur representations for the estimated factor loadings and scores are provided under some mild conditions. In addition, a Robust method is proposed to estimate  
-the number of factors consistently. Simulation experiments checked the validity of the theory. 
-Our analysis on a financial data set shows the superiority of the proposed method over other state-of-the-art methods.
+Bahardur representations for the estimated factor loadings and scores are provided under some mild conditions. In addition, a Robust method is proposed to estimate the number of factors consistently. Simulation experiments checked the validity of the theory. Our analysis on a financial data set shows the superiority of the proposed method over other state-of-the-art methods.
 
 
 Reference:
